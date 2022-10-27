@@ -92,7 +92,7 @@ end
 assign counter=counter_up;
 endmodule
 ```
-###DOWN COUNTER
+### DOWN COUNTER
 ```
 
 module downcounter(input CLK,input reset,output[0:3]counter);
@@ -112,10 +112,10 @@ endmodule
 
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
-###UP COUNTER:
+### UP COUNTER:
 
 ![UP STREAM PIC](https://user-images.githubusercontent.com/94154531/198284234-cd7071b2-ec9b-4426-b8d5-14fd9625bd3b.jpg)
-###DOWN COUNTER:
+### DOWN COUNTER:
 
 ![DOWN STREAM](https://user-images.githubusercontent.com/94154531/198284304-072a2d11-f304-4a08-b5ef-bbb298190ebe.jpg)
 
@@ -127,19 +127,19 @@ endmodule
 
 
 ### TIMING DIGRAMS FOR COUNTER  
-###UP COUNTER:
+### UP COUNTER:
 
 ![n2](https://user-images.githubusercontent.com/94154531/198284349-a86c3fb1-638e-42e9-94e3-2b9438e148ab.png)
-###DOWN COUNTER:
+### DOWN COUNTER:
 ![n4](https://user-images.githubusercontent.com/94154531/198284901-08fbbd2b-0b90-4d2c-8000-5564ba7c292e.png)
 
 
 
 
 ### TRUTH TABLE 
-###UP COUNTER
+### UP COUNTER
 ![n5](https://user-images.githubusercontent.com/94154531/198284957-210b1b61-e121-4883-a5b0-d3ea50da8e2a.png)
-###DOWN COUNTER
+### DOWN COUNTER
 
 ![n6](https://user-images.githubusercontent.com/94154531/198285019-c9ecab29-73e0-40a9-9827-1a051093a93c.png)
 
